@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=11253376)
 # Bin Bash and the whole Shebang
 
 This repo holds the learing exercises for an introdcution to the linux terminal - bash. More details are available at this post on docs.kea.dev: ["Bin Bash and the Whole Shebang"](https://docs.kea.dev/bin-bash-shebang).
